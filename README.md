@@ -14,7 +14,8 @@
 -navigation.md 파일 수정
 ***
 ## 장바구니
--cart.md 파일 추가
+- cart.md 파일 추가
+- cart.md 파일 수정
 
 ## 소개문구
 
