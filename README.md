@@ -9,6 +9,10 @@
 ## 소개 페이지 추가
 - about.md 추가
 
+## 내비게이션 추가
+-navigation.md 파일 추가
+
+***
 ## 소개문구
 
 * 사람들의 말을 잘 들어주고,
@@ -23,7 +27,10 @@
 ## Images
 ***
 ![신민혁 사진](https://avatars.githubusercontent.com/u/159970634?v=4)
+
 ## Contact Me
 ***
 이메일 : [smw262@naver.com](smw262@naver.com)
+
 전화번호 : 010-4904-4937
+
