@@ -15,4 +15,5 @@
 - Logout
 
 ## 검색창
+- Search
 

@@ -7,14 +7,14 @@
 ***
 
 ## 소개 페이지 추가
-- about.md 추가
+-about.md 추가
 
 ## 내비게이션 추가
 -navigation.md 파일 추가
-
+-navigation.md 파일 수정
 ***
 ## 장바구니
-- cart.md 파일 추가
+-cart.md 파일 추가
 
 ## 소개문구
 
